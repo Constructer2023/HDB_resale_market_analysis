@@ -1,0 +1,50 @@
+{
+  "feature_columns": [
+    "trx_date",
+    "trx_year",
+    "trx_month",
+    "lease_commence",
+    "remaining_lease_month",
+    "flat_type",
+    "flat_model",
+    "st",
+    "blk",
+    "storey_midpoint",
+    "floor_area_sqm",
+    "lat",
+    "lon",
+    "postal",
+    "subzone",
+    "zone_id",
+    "nearest_mrt",
+    "mrt_lat",
+    "mrt_lon",
+    "to_mrt",
+    "to_city"
+  ],
+  "n_train": 221758,
+  "n_test": 17507,
+  "train_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "test_year": 2026,
+  "target": "resale_price",
+  "always_drop_v2": [
+    "flat_year",
+    "search_val",
+    "status"
+  ],
+  "forbidden_cols": [
+    "price_per_sqm",
+    "resale_price"
+  ],
+  "max_categories": 40
+}

@@ -1,0 +1,7 @@
+Dataset, Rows, Columns, Date range, Grain, alias
+Resale_Flat_Prices_based_on_Registration_Date_from_Jan2017_onwards,239583,11, 01/2017~09/2026, One transaction, resale transactions
+Housing_and_Development_Board_HDB_Resale_Price_Index_Quarterly,2,147, 1990Q1~2026Q2, One quarter, resale price index
+Number_of_Resale_Applications_Registered_by_Flat_Type,468,3, 2007Q1~2026Q1, One application data, applications by flat type
+Median_Resale_Prices_for_Registered_Applications_by_Town_and_Flat_Type,12012,4, 2007Q2~2026Q2, One price data, median prices
+Demand_for_Rental_and_Sold_Flats,26,4, 1960~2024, One demand data, demand rental/sold
+Applications_Registered_for_Resale_Flats_and_Rental_Flats,36,3, 2007~2024, One application number, applications resale/rental
